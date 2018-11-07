@@ -58,14 +58,22 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 ### 2-3. Development technology of DEX (Distributed Exchange)
 
-![Alt text](C:\Users\brunodayo\Downloads\f6f31d3212a20679c05fe0bf320c07d5.png)
-
 
 ① Maker approves the token M of the Maker's account on the block chain of the Enterprise so that the DEX contract can access it
+
 ② The Maker orders the transaction to exchange its own token M with the token T. At this time, the signature is done with Maker's private key
+
 ③ Maker broadcasts this trading order to the network
 ④Taker receives the trading order
+
 ⑤ Taker approves the token T of the Taker's account on the block chain of the Enterprise so that the DEX contract can access it
+
 ⑥ Taker presents Maker's signature to DEX contract (* 1)
 ⑦DEX contract (* 1) performs transaction settlement of token M and token T
 * 1: Smart contract: automatic settlement
+
+
+
+**At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX**
+
+**The features of the i8 exchange** are as follows
