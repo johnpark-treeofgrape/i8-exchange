@@ -79,6 +79,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 **The features of the i8 exchange** are as follows
 
 No.1
+
 ![2](https://user-images.githubusercontent.com/12098113/48248863-6052a600-e43c-11e8-866a-36096324e2e9.png)
 
 • Form an aggregated order queue based on data received from all system nodes (both CEX and DEX nodes).
@@ -94,9 +95,11 @@ Note: Since the entire I8 exchange system does not have an adequate price, order
 Essentially, each node of the I8 exchange provides users with the best executive services that are obligatory for intermediaries in most countries with developed financial markets.
 
 No.2
+
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 In addition, such an approach (No.2) requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.
 
 No.3
+
 ![1](https://user-images.githubusercontent.com/12098113/48248876-68aae100-e43c-11e8-837f-9731b1cfaafa.png)
 The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX). (No.3)
