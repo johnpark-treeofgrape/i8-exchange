@@ -76,16 +76,17 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 
 
-**At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX**
+**At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
 
 **The features of the i8 exchange** are as follows
-
 
 ![2](https://user-images.githubusercontent.com/12098113/48248863-6052a600-e43c-11e8-866a-36096324e2e9.png)
 
 • Form an aggregated order queue based on data received from all system nodes (both CEX and DEX nodes).
 
 • Route the aggregated queue order to the block chain network.
+
+• we can use ordering with offline
 
 • Identification of the system node when it is necessary to transmit the order / transaction submitted by the customer (when it is possible to make a transaction at the price specified in the order)
 
