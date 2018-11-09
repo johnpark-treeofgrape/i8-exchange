@@ -78,7 +78,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 **The features of the i8 exchange** are as follows
 
-![e116f21874a3d98dea05a8dd55b4e0fb](https://user-images.githubusercontent.com/12098113/48248163-95112e00-e439-11e8-8878-1bf7cd48514a.png)
+![2](https://user-images.githubusercontent.com/12098113/48248863-6052a600-e43c-11e8-866a-36096324e2e9.png)
 
 No.1
 
@@ -96,14 +96,14 @@ No.1
 Note: Since the entire I8 exchange system does not have an adequate price, orders that can not be executed at the time of being displayed are described in the node.
 Essentially, each node of the I8 exchange provides users with the best executive services that are obligatory for intermediaries in most countries with developed financial markets.
 
-![e116f21874a3d98dea05a8dd55b4e0fb](https://user-images.githubusercontent.com/12098113/48248163-95112e00-e439-11e8-8878-1bf7cd48514a.png)
+![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 
 No.2
 
 
 In addition, such an approach (No.2) requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.
 
-![c85d3a098ae4f05f9d4b97263a5e9adc](https://user-images.githubusercontent.com/12098113/48248295-11a40c80-e43a-11e8-9fb7-44b63c1fb8de.png)
+![1](https://user-images.githubusercontent.com/12098113/48248876-68aae100-e43c-11e8-837f-9731b1cfaafa.png)
 
 No.3
 
