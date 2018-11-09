@@ -60,6 +60,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 ### 2-3. Development technology of DEX (Distributed Exchange)
 
+![11](https://user-images.githubusercontent.com/12098113/48249675-2d5de180-e43f-11e8-8df0-558f7e046ab5.png)
 
 ① Maker approves the token M of the Maker's account on the block chain of the Enterprise so that the DEX contract can access it
 
@@ -74,6 +75,32 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 ⑦DEX contract (* 1) performs transaction settlement of token M and token T
 * 1: Smart contract: automatic settlement
 
+
+### 2-4. Development technology of DEX (Distributed Exchange)
+
+![12](https://user-images.githubusercontent.com/12098113/48249678-30f16880-e43f-11e8-8a40-60e9fa1ad412.png)
+
+①Relayer presents the address to receive the estimate of transaction fee and the commission to Maker
+
+② The Maker makes a trading order and sets the presented transaction fee. At this time sign it with Maker's private key
+
+③ Maker presents signed order to Relayer
+
+④Relayer checks whether the received order is valid or not and records it in Order Book if valid
+
+⑤Taker receives the OrderBook whose Maker's order has been updated
+
+⑥Taker finds the order you wish to trade and presents it to the DEX contract of the block chain of the EOS
+
+
+### 3. Difference in issuance of tokens between Eos base and Ethernet basis
+
+![13](https://user-images.githubusercontent.com/12098113/48249681-32bb2c00-e43f-11e8-9bf8-143f426974fa.png)
+
+
+### 4. Infrastructure diagram of DEX (Distributed Exchange)
+
+![14](https://user-images.githubusercontent.com/12098113/48249685-351d8600-e43f-11e8-9acd-df90aabecfa4.png)
 
 
 **At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
