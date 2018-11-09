@@ -3,7 +3,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 **[white-paper](https://www.google.co.jp/)**
 
-**[homepage](https://www.i8exchange.com/)**
+**[homepage](http://www.i8exchange.com/)**
 
 
 
