@@ -4,11 +4,6 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 **[homepage](http://www.i8exchange.com/)**
 
-**[road map](https://www.google.co.jp/)**
-
-**[token sale](http://www.i8exchange.com/)**
-
-
 
 
 
