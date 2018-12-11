@@ -16,7 +16,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 ⇒ There is little fear of hacking in storage or transactions
 ⇒ It is unlikely that personal assets will be lost due to the malice of others (there is little chance that regulation will take place as fraud is unlikely to occur)
 
-- P2P: Since it is a relative transaction between individuals and individuals, security is strong
+- P2P: Since it is a relative transaction between customers, security is strong enough
 
 - NoManager: Since there is no administrator, there is no need to send passwords or personal information to exchanges
 
@@ -24,7 +24,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 - smart contract: encrypted and distributed among nodes. Specifically, this guarantees that it will not be lost or changed without your permission
 
-- Each node with server: Influence down effect is limited (Reliability)
+- Each node with server: effect of down for infraction is limited (Reliability)
 
 
 ### 2-1. Development technology of DEX (Distributed Exchange)
@@ -33,14 +33,14 @@ Next Generation Virtual Currency / Encryption Currency Exchange System = Distrib
 
 * Used to buy and sell ERC 20 tokens based on Ethereum (Ethereum)
 
-* There are some which incorporate some centralized system to speed up the process.
+* There are something which incorporate some centralized system to speed up the process
 
-* There are things without Order Book
+* There are something without Order Book
 
 * System configuration
 - Maintain asset management rights by users
        Manage buying and selling orders for users with off-chain (out of block chain)
-    - Transaction processing on on chain
+    - Transaction processing on on-chain
        Secure Smart Contract that can handle transactions established on-chain
        Example) ⇒ Smart contracts provided by the 0x protocol
     - Distributed Order Book (order board)
@@ -50,7 +50,8 @@ Next Generation Virtual Currency / Encryption Currency Exchange System = Distrib
 
 **About Distributed Application (Dapp)  
 Case Study: How 0x (zero · X) works**
-Different tokens (Maker ⇔ Taker) in an Ethernet block chain with DEX protocol to trade to Various DEX applications are created on platform: 0x to the last.
+DEX protocol to trade different tokens (Maker ⇔ Taker) in an Ethernet block chain
+protocol: a lots of DEX was built on the 0x
 Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 
