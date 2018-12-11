@@ -64,6 +64,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 ② The Maker orders the transaction to exchange its own token M with the token T. At this time, the signature is done with Maker's private key
 
 ③ Maker broadcasts this trading order to the network
+
 ④Taker receives the trading order
 
 ⑤ Taker approves the token T of the Taker's account on the block chain of the Enterprise so that the DEX contract can access it
