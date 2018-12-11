@@ -7,7 +7,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 
 
-## Security of 1-1DEX (Distributed Exchange) (including reliability and transparency)
+## 1.Security of DEX (Distributed Exchange) (including reliability and transparency)
 
 - USER ASSET MANAGEMENT: There is no need to deposit assets
 
@@ -18,11 +18,11 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 - P2P: Since it is a relative transaction between individuals and individuals, security is strong
 
-- NoManager: Since there is no administrator, there is no need to send passwords or personal information to exchanges.
+- NoManager: Since there is no administrator, there is no need to send passwords or personal information to exchanges
 
 - Fully Decentralized: Identity verification procedure, login etc. unnecessary (safety + easy to register)
 
-- smart contract: The transaction record remains by the automatic contract, the transaction history. (transparency)
+- smart contract: encrypted and distributed among nodes. Specifically, this guarantees that it will not be lost or changed without your permission
 
 - Each node with server: Influence down effect is limited (Reliability)
 
