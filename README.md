@@ -4,7 +4,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 **[homepage](http://www.i8exchange.com/)**
 
-**[how to get i8COIN](http://test3.ryubiinc.com/kr.html)**
+**[how to get i8COIN](http://i8exchange.com/novawallet/)**
 
 
 
