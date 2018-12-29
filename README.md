@@ -77,7 +77,8 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 ### 2-4. Development technology of DEX (Distributed Exchange)
 
-![12](https://user-images.githubusercontent.com/12098113/48249678-30f16880-e43f-11e8-8a40-60e9fa1ad412.png)
+![60643d751400684153631eb5d15e23d8](https://user-images.githubusercontent.com/12098113/50540046-edf57b00-0bcd-11e9-85aa-232099777581.png)
+
 
 ①Relayer presents the address to receive the estimate of transaction fee and the commission to Maker
 
