@@ -57,7 +57,8 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 ### 2-3. Development technology of DEX (Distributed Exchange)
 
-![11](https://user-images.githubusercontent.com/12098113/48249675-2d5de180-e43f-11e8-8df0-558f7e046ab5.png)
+![97d4f1e6cd4ad9335a51e9e30c7ffbed](https://user-images.githubusercontent.com/12098113/50539983-a9b5ab00-0bcc-11e9-975e-f82177a19b46.png)
+
 
 ① Maker approves the token M of the Maker's account on the block chain of the Enterprise so that the DEX contract can access it
 
