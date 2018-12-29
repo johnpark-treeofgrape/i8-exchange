@@ -93,12 +93,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 ⑥Taker finds the order you wish to trade and presents it to the DEX contract of the block chain of the EOS
 
 
-### 3. Difference in issuance of tokens between Eos base and Ethernet basis
-
-![13](https://user-images.githubusercontent.com/12098113/48249681-32bb2c00-e43f-11e8-9bf8-143f426974fa.png)
-
-
-### 4. Infrastructure diagram of DEX (Distributed Exchange)
+### 3. Infrastructure diagram of DEX (Distributed Exchange)
 
 ![14](https://user-images.githubusercontent.com/12098113/48249685-351d8600-e43f-11e8-9acd-df90aabecfa4.png)
 
