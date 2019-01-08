@@ -93,6 +93,26 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 ⑥Taker finds the order you wish to trade and presents it to the DEX contract of the block chain of the EOS
 
+### 3. i8 Exchange Plan
+i8 Exchange plans to offer digital asset spot trading, CFD trading and on-chain trading. i8 exchange.
+An exchange token called the IE token (i8 exchange proof). When an IE token is issued, the i8 exchange is no longer an independent block-chain entity, but a distributed company managed by the community.
+IE Token Holder and i8 Exchange Foundation. All IE token holders share the profits generated from the i8 exchange. As a result, i8 Exchange will be a community-based platform that works with all members and partners to build a global one-stop platform for quality digital assets.
+
+### 3-1. CFD Trading
+i8 Exchange supports in-kind transactions of cryptocurrencies. As the platform develops and trading volume becomes more secure and reliable, CFD trading begins. When this happens, the range of products that can be traded on the i8 exchange will be greatly expanded. cryptocurrencies, equity, foreign exchange, and commodities-i8 exchange will be a global one-stop shop for truly transaction-quality digital assets. Of course this would be interpreted as a tremendous benefit to the i8 exchange platform shared among IE token holders, creating a strong and steady passive income for all IE token holders
+
+### 3-2. On Chain Trading
+EOS represents a mature, fast transaction, low-latency technology and attracts the best developers. In the summer of 2018, we saw numerous game projects, gambling projects and Bancor transactions leading to the EOS platform. We have little doubt that the next wave of dApps will bring another exciting group of entrants. On the other hand, CPU, Net and RAM prices are still high, but the barriers to opening EOS accounts are somewhat burdensome, but they will provide on-chain transactions in a way that provides fast and secure access to on-chain services.
+
+### 3-2-1. On Chain Trading Model
+Our unique trading model not only allows you to exchange between different assets internally within your account with an i8 exchange but also allows you to deposit a minimum amount of EOS and have full access to all the EOS related services you do not need. .
+
+### 3-3. Platform Revenue Sources
+1.Trading Fees: 0.02%
+2.Overnight Carrying Charge on CFDs:Undecided
+3.On-chain transfer fee: 0.02%
+4.Withdrawal Fees (Undecided)
+
 
 **At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
 
