@@ -94,11 +94,6 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 ⑥Taker finds the order you wish to trade and presents it to the DEX contract of the block chain of the EOS
 
 
-### 3. Infrastructure diagram of DEX (Distributed Exchange)
-
-![14](https://user-images.githubusercontent.com/12098113/48249685-351d8600-e43f-11e8-9acd-df90aabecfa4.png)
-
-
 **At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
 
 **The features of the i8 exchange** are as follows
