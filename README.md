@@ -109,8 +109,11 @@ Our unique trading model not only allows you to exchange between different asset
 
 ### 3-3. Platform Revenue Sources
 1.Trading Fees: 0.02%
+
 2.Overnight Carrying Charge on CFDs:Undecided
+
 3.On-chain transfer fee: 0.02%
+
 4.Withdrawal Fees (Undecided)
 
 
