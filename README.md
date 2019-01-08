@@ -117,6 +117,8 @@ Our unique trading model not only allows you to exchange between different asset
 4.Withdrawal Fees (Undecided)
 
 
+
+
 **At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
 
 **The features of the i8 exchange** are as follows
