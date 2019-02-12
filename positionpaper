@@ -1,0 +1,46 @@
+Position paper
+
+Recently, the common sense of exchanges is changing.
+The transition from the centralized exchanges (CEX) to the decentralized exchange (DEX) of the traditional system is rapidly taking place.
+
+In 2013, there was the first trial of distributed trading. DEX is to remain as an entity trying to confuse the opaque and monopolistic financial market, which caused little trading volume due to trading order time, transaction creation or withdrawal, and cross interoperability issues It is not worth using.
+Currently, transactions of virtual currencies are still undergoing centralized transactions. Of course, DEX and Centralized Exchange (CEX) have failed to meet the investment needs of institutional investors, which is necessary for asset retention stability, traceability, especially between banks and exchanges It is a situation.
+At this point, i8 will be reborn into a hybrid model that overcomes the disadvantages of decentralized exchanges and presents directions towards investors.
+
+· Hybrid model
+The i8 protocol is a semi-distributed order matching protocol.
+Orders and transactions are encrypted into block chains, saved after time stamping, and transaction matching is in progress. Distribution of orders and transaction information enables transparent price formation, audit function of transactions and zero front running. Centralized centralized order pooling and order matching ensures the efficiency and scalability of the current block chain
+.
+
+· Tracking and auditing
+Exchanges orders, transactions, all work similar to withdrawals and deposits are applied to the block chain system and virtual currency deposits and withdrawals are recorded on each block chain. Also,
+The exchange platform is designed to allow the regulatory body to audit perfectly,
+You can provide reservations and reports with Im. Designed to comply with regulations of each country,
+You can prevent and control AML and others.
+
+· DApps browsing function
+Until now DApps had a wallet function for each application
+However, its safety depends on the competence of each developer, sometimes it suffers from massive hacking damage
+It has also been exposed to risk.
+In the DApps browsing function, under the know-how of businesses specializing in wallet development, the server
+Without placing a secret key for accessing customer's assets, encrypt it and securely send it to a client
+It provides a means to store it on the side and access it from the application there.
+This allows DApps developers to concentrate on developing applications without having to manage secret keys
+Users are also released from the trouble of switching the wallet for each application, safely
+It is possible to use DApps.
+safety
+Our Wallet encrypts the secret key and stores it safely in the smartphone.
+Even if i8 is hacked, user assets will not be lost.
+Moreover, even if the terminal is broken or lost, by memorizing a dedicated pass phrase,
+You can access your account.
+Even if you lose your smartphone, you can also lock it with a password so that it can not be seen by others.
+Convenience
+Bit coin, Etharium, Counterparty send and receive them in simple steps, DApps
+You can use it in.
+The usage history can also be checked, and receipt is not overlooked by push notification.
+Also, with HD wallet support, you can choose the address of the restoration properly.
+Scalability
+In addition to this DApps browsing function, it works safely with wallet even between native applications
+We are publishing specifications and API / SDKs for developers from time to time.
+Our company has already developed these technologies already, and it is a practical target for exchanges' customer property management
+We are preloaded.
