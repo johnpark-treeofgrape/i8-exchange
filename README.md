@@ -150,17 +150,15 @@ For more detailed information on other security measures implemented on the I8 p
 PoC is a new consensus building algorithm that makes high speed and high security compatible. PoC solves the current challenges of existing protocols such as slow block time, low transaction speed and low scalability while maintaining fairness of data distribution, zero downtime and anti-counterfeiting measures.
 PoC has significant advantages over other block chain platforms.
 - 0.3 seconds Block time:
-    - リスト1_1Omission of nonce bypasses arithmetic processing, and shortens processing time dramatically
-    
-○ High-speed block generation is possible by node hierarchy and role sharing
-● Scalability:
-○A flexible network structure allows an unchanging user experience during times of high traffic
-○ The number of master nodes and super nodes increases or decreases according to network traffic
-● Uniform information distribution:
-○ Even when dealing with large-scale PoC global networks, information is delivered in exactly the same way.
-● Approval of transactions by permutation
-● Process optimization by assigning roles using the node hierarchy
-● Construction of a proprietary network that efficiently distributes information Coupled with these unique features, we are constructing an ultra-fast and secure network configuration.
+    - Omission of nonce bypasses arithmetic processing, and shortens processing time dramatically
+    - High-speed block generation is possible by node hierarchy and role sharing
+- Scalability:A flexible network structure allows an unchanging user experience during times of high traffic
+    - The number of master nodes and super nodes increases or decreases according to network traffic
+- Uniform information distribution:
+    - Even when dealing with large-scale PoC global networks, information is delivered in exactly the same way.
+- Approval of transactions by permutation
+- Process optimization by assigning roles using the node hierarchy
+- Construction of a proprietary network that efficiently distributes information Coupled with these unique features, we are constructing an ultra-fast and secure network configuration.
 
 
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
