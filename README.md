@@ -164,8 +164,7 @@ PoC has significant advantages over other block chain platforms.
 
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 
-
-**The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX). **
+**The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX).**
 
 ![1](https://user-images.githubusercontent.com/12098113/48248876-68aae100-e43c-11e8-837f-9731b1cfaafa.png)
 
