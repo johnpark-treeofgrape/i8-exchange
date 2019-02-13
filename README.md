@@ -54,7 +54,7 @@ protocol: a lots of DEX was built on the 0x
 Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 
-### 2-3. Detail of technology of DEX (Distributed Exchange)
+### 2-3. Detail of technology of DEX (ETH)
 
 ![97d4f1e6cd4ad9335a51e9e30c7ffbed](https://user-images.githubusercontent.com/12098113/50539983-a9b5ab00-0bcc-11e9-975e-f82177a19b46.png)
 
@@ -74,7 +74,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 * 1: Smart contract: automatic settlement
 
 
-### 2-4. Development technology of DEX (Distributed Exchange)
+### 2-4. Development technology of DEX (EOS)
 
 ![60643d751400684153631eb5d15e23d8](https://user-images.githubusercontent.com/12098113/50540046-edf57b00-0bcd-11e9-85aa-232099777581.png)
 
