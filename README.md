@@ -160,11 +160,9 @@ PoC has significant advantages over other block chain platforms.
 - Process optimization by assigning roles using the node hierarchy
 - Construction of a proprietary network that efficiently distributes information Coupled with these unique features, we are constructing an ultra-fast and secure network configuration.
 
-
+**In addition, such an approach requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.**
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 
-In addition, such an approach requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.
-
+**The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX). **
 ![1](https://user-images.githubusercontent.com/12098113/48248876-68aae100-e43c-11e8-837f-9731b1cfaafa.png)
 
-The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX). 
