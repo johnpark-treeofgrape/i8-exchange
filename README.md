@@ -117,6 +117,8 @@ Our unique trading model not only allows you to exchange between different asset
 
 
 
+
+
 **At i8 exchanges, we are making hybrid exchanges that can take advantage of advantages while compensating for the disadvantages of DEX and CEX (DEX with EOS block-chain)**
 
 **The features of the i8 exchange** are as follows
@@ -136,6 +138,29 @@ Our unique trading model not only allows you to exchange between different asset
 • Receive information on matching results.
 Note: Since the entire I8 exchange system does not have an adequate price, orders that can not be executed at the time of being displayed are described in the node.
 Essentially, each node of the I8 exchange provides users with the best executive services that are obligatory for intermediaries in most countries with developed financial markets.
+
+
+### 4. Security
+The "Know Your Customer" (KYC) process is a very important step that allows I8 to reduce curtail malicious intentions and acts and to identify the individuals who intend such acts. With this ID recognition process, I8EXCHANGE can also monitor and limit the number of master nodes that an individual maintains. This prevents one individual from becoming the majority owner of the master node and can control and control the network exclusively.
+
+In addition to the KYC process, checking and balancing within the node hierarchy also increases the security level within the platform. If the monitored master node maliciously detects the master node in the system, the suspicious MN is excluded from the system and its activities and permissions are suspended. After investigating, the owner of the accused master node loses the locked up token and may not be able to build a master node in the future. This provides a very strong deterrent to malignant people trying to join the I8 environment.
+For more detailed information on other security measures implemented on the I8 platform.
+
+### 4-1. POC
+PoC is a new consensus building algorithm that makes high speed and high security compatible. PoC solves the current challenges of existing protocols such as slow block time, low transaction speed and low scalability while maintaining fairness of data distribution, zero downtime and anti-counterfeiting measures.
+PoC has significant advantages over other block chain platforms.
+● 0.3 seconds Block time:
+  ○ Omission of nonce bypasses arithmetic processing, and shortens processing time dramatically
+○ High-speed block generation is possible by node hierarchy and role sharing
+● Scalability:
+○A flexible network structure allows an unchanging user experience during times of high traffic
+○ The number of master nodes and super nodes increases or decreases according to network traffic
+● Uniform information distribution:
+○ Even when dealing with large-scale PoC global networks, information is delivered in exactly the same way.
+● Approval of transactions by permutation
+● Process optimization by assigning roles using the node hierarchy
+● Construction of a proprietary network that efficiently distributes information Coupled with these unique features, we are constructing an ultra-fast and secure network configuration.
+
 
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 
