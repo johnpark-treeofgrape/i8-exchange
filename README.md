@@ -149,8 +149,9 @@ For more detailed information on other security measures implemented on the I8 p
 ### 4-1. POC
 PoC is a new consensus building algorithm that makes high speed and high security compatible. PoC solves the current challenges of existing protocols such as slow block time, low transaction speed and low scalability while maintaining fairness of data distribution, zero downtime and anti-counterfeiting measures.
 PoC has significant advantages over other block chain platforms.
-● 0.3 seconds Block time:
-  ○ Omission of nonce bypasses arithmetic processing, and shortens processing time dramatically
+- 0.3 seconds Block time:
+    - リスト1_1Omission of nonce bypasses arithmetic processing, and shortens processing time dramatically
+    
 ○ High-speed block generation is possible by node hierarchy and role sharing
 ● Scalability:
 ○A flexible network structure allows an unchanging user experience during times of high traffic
