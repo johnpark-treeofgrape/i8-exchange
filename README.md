@@ -1,5 +1,5 @@
 # i8-exchange
-this is HEX(Hybrid Exchange) with EOS blockchain
+I8 is HEX(Hybrid Exchange) with EOS blockchain
 
 
 **[homepage](http://www.i8exchange.com/)**
@@ -11,7 +11,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 - USER ASSET MANAGEMENT: There is no need to deposit assets
 
 - TRUSTRESS: There is no need to trust an exchange (run away, risk of hacking is low)
-⇒ "Trustless" which is the characteristic of the block chain (trust is unnecessary for a third party) can be realized
+⇒ "Trustless" is the characteristic of the block chain (trust is unnecessary for a third party).
 ⇒ There is little fear of hacking in storage or transactions
 ⇒ It is unlikely that personal assets will be lost due to the malice of others (there is little chance that regulation will take place as fraud is unlikely to occur)
 
@@ -30,7 +30,7 @@ this is HEX(Hybrid Exchange) with EOS blockchain
 
 Next Generation Virtual Currency / Encryption Currency Exchange System = Distributed Application (Dapp)
 
-* Used to buy and sell ERC 20 tokens based on Ethereum (Ethereum)
+* Used to buy and sell ERC 20/EOS tokens based on Ethereu/EOS (Ethereum/EOS)
 
 * There are something which incorporate some centralized system to speed up the process
 
@@ -45,7 +45,7 @@ Next Generation Virtual Currency / Encryption Currency Exchange System = Distrib
     - Distributed Order Book (order board)
 
 
-### 2-2. Development technology of DEX (Distributed Exchange)
+### 2-2. Development technology of DEX (0x)
 
 **About Distributed Application (Dapp)  
 Case Study: How 0x (zero · X) works**
@@ -54,7 +54,7 @@ protocol: a lots of DEX was built on the 0x
 Goal:**DEX transactions scale, fast trading, low transaction fee**
 
 
-### 2-3. Development technology of DEX (Distributed Exchange)
+### 2-3. Detail of technology of DEX (Distributed Exchange)
 
 ![97d4f1e6cd4ad9335a51e9e30c7ffbed](https://user-images.githubusercontent.com/12098113/50539983-a9b5ab00-0bcc-11e9-975e-f82177a19b46.png)
 
@@ -79,7 +79,7 @@ Goal:**DEX transactions scale, fast trading, low transaction fee**
 ![60643d751400684153631eb5d15e23d8](https://user-images.githubusercontent.com/12098113/50540046-edf57b00-0bcd-11e9-85aa-232099777581.png)
 
 
-①Relayer presents the address to receive the estimate of transaction fee and the commission to Maker
+① Relayer presents the address to receive the estimate of transaction fee and the commission to Maker
 
 ② The Maker makes a trading order and sets the presented transaction fee. At this time sign it with Maker's private key
 
