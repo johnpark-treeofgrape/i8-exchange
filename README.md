@@ -146,7 +146,7 @@ The "Know Your Customer" (KYC) process is a very important step that allows I8 t
 In addition to the KYC process, checking and balancing within the node hierarchy also increases the security level within the platform. If the monitored master node maliciously detects the master node in the system, the suspicious MN is excluded from the system and its activities and permissions are suspended. After investigating, the owner of the accused master node loses the locked up token and may not be able to build a master node in the future. This provides a very strong deterrent to malignant people trying to join the I8 environment.
 For more detailed information on other security measures implemented on the I8 platform.
 
-### 4-1. POC
+### 4-1. PoC
 PoC is a new consensus building algorithm that makes high speed and high security compatible. PoC solves the current challenges of existing protocols such as slow block time, low transaction speed and low scalability while maintaining fairness of data distribution, zero downtime and anti-counterfeiting measures.
 PoC has significant advantages over other block chain platforms.
 - 0.3 seconds Block time:
@@ -160,11 +160,12 @@ PoC has significant advantages over other block chain platforms.
 - Process optimization by assigning roles using the node hierarchy
 - Construction of a proprietary network that efficiently distributes information Coupled with these unique features, we are constructing an ultra-fast and secure network configuration.
 
-**In addition, such an approach requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.**
+### 5. Smart Transaction Matching Engine
+Transactional inefficiency of decentralized trading is triggered by a request that customers must be put in a block chain while waiting for the pairing to succeed. The user can only wait passively for the counterparty having the equivalent transaction amount. If the transaction quantity is different, you can complete only a part of the transaction first. Thereafter, the user must make another order manually to sell the remaining digital currency. On the contrary, I8 actively supports users of off-chain smart pairing using its smart transaction matching engine. When a user initiates an order using a cryptographic signature, the order information is sent to the I8 matching engine before it is listed in the order book of the I8 trading platform. The I8 Smart Transaction Matching Engine actively checks the supply and demand of the order pool on a first-come-first-served basis and only checks with orders with prices below the predefined cost. In addition, the orderer can also manually select favorite orders from the order book on the I8 exchange platform. Smart pairing is done outside the chain, but all movements are made public on the exchange platform to ensure transparency. If pairing is successful, I8 will initiate a smart contract with cryptographic signatures from both the order maker and the block chain. When transaction confirmation is completed in the block chain, the system issues a broadcast and the digital currency is exchanged accordingly. This mechanism means that digital currency transfers can only occur between individual users and not on I8 exchanges. If there is no cryptographic signature from the user, the transaction will not be treated as valid, nor sent to the block chain or confirmed.
 
 ![default](https://user-images.githubusercontent.com/12098113/48248871-66488700-e43c-11e8-8c07-849bc3561990.png)
 
-**The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX).**
+**approach requires that each exchange have an obligation to send orders submitted by customers to another exchange where the latest best price may exist (cross-chain) basis of the domestic market system . A smart order router module operating on each network node (including CEX) is responsible for the function of the best executive in the system.The appropriate architecture at the CEX assumes the creation of a modular system containing isolated (logically) blocks, which associates the two main layers of the system (CEX / DEX).**
 
 ![1](https://user-images.githubusercontent.com/12098113/48248876-68aae100-e43c-11e8-837f-9731b1cfaafa.png)
 
